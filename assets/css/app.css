@@ -1,0 +1,88 @@
+.navbar {
+  height: 70px;
+  width: 100%;
+}
+.navbar .company-logo {
+  margin-top: 10px;
+}
+.navbar .company-logo a {
+  display: block;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  top: -10px;
+  left: 17px;
+  z-index: 999;
+}
+.navbar .company-logo .kungfu-fist {
+  width: 25px;
+  height: 25px;
+}
+.navbar .company-logo .fa-desktop {
+  color: #f0f0f0 !important;
+}
+@media screen and (max-width: 767px) {
+  .navbar .navbar-collapse {
+    background: #12a8e7;
+    opacity: 0.9;
+  }
+  .navbar .navbar-collapse ul li {
+    border-bottom: 1px solid #fff;
+  }
+}
+.navbar .navbar-nav {
+  margin-top: 10px;
+}
+.navbar .navbar-nav a {
+  color: #f0f0f0 !important;
+  font-size: 1.5em;
+}
+.navbar .navbar-nav a:hover {
+  color: #fff !important;
+}
+.navbar.navbar-inverse {
+  border-color: #12abec;
+  background: #12abec;
+}
+.jumbotron.jumbotron-carousel {
+  margin-top: 70px;
+  background-color: #12a8e7;
+  border-color: #12abec;
+  color: white;
+}
+.jumbotron.jumbotron-carousel h1 {
+  font-size: 80px;
+  letter-spacing: -2px;
+  line-height: 1;
+  text-shadow: 4px 3px 0 #095576, 9px 8px 0 rgba(0, 0, 0, 0.15);
+  margin: 0 0 15px;
+}
+.jumbotron.jumbotron-carousel .carousel-inner {
+  color: white;
+  font-size: 150px;
+}
+.jumbotron.jumbotron-carousel .carousel-inner .acompany-logo {
+  width: 175px;
+  height: 175px;
+  top: -25px;
+  position: relative;
+}
+.jumbotron.jumbotron-carousel .carousel-control {
+  position: absolute;
+  top: 150px;
+  bottom: 0;
+  width: 15%;
+  font-size: 20px;
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+  filter: alpha(opacity=50);
+  opacity: 0.5;
+  background-image: none;
+}
+.jumbotron.jumbotron-carousel .carousel-control .left {
+  left: 0;
+}
+.jumbotron.jumbotron-carousel .carousel-control .right {
+  right: 0;
+}

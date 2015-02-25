@@ -1,0 +1,38 @@
+{% block content %}
+<div class="jumbotron jumbotron-carousel hidden-print">
+<div class="container">
+	<div class="row">
+		<div class="col-md-8 col-sm-8 text-center">
+			<h1>Kungfu Software</h1>
+			<p>Hybris + AEM + Meteor </p>
+			<div class="actions">
+					<a class="btn btn-default btn-lg" href="./assets/font-awesome-4.3.0.zip" onclick="_gaq.push(['_trackEvent', 'Outbound Link', 'Download on GitHub']);">
+					<i class="fa fa-download fa-lg"></i>&nbsp;&nbsp;
+					Download
+				</a>
+			</div>
+
+		</div>
+		<div class="col-md-4 col-sm-4">
+			<div id="icon-carousel" class="carousel slide">
+				<!-- Carousel items -->
+				<div class="carousel-inner text-center">
+					<div class="item"><div><i class="fa fa-apple"></i></div></div>
+					<div class="item"><div><i class="fa fa-android"></i></div></div>
+					<div class="item"><div><i class="fi fi-social-adobe"></i></div></div>
+					<div class="item active"><div><img class="acompany-logo" src="{{ "meteor_inversed.png" | asset_url }}"></div></div>
+					<div class="item"><div><img class="acompany-logo" src="{{ "hybris_logo.png" | asset_url }}"></div></div>
+				</div>
+				<!-- Carousel nav -->
+				<a class="carousel-control left" href="#icon-carousel" data-slide="prev" onclick="_gaq.push(['_trackEvent', 'iconCarousel', 'Prev']);">
+					<i class="fa fa-arrow-circle-left"></i></a>
+				<a class="carousel-control right" href="#icon-carousel" data-slide="next" onclick="_gaq.push(['_trackEvent', 'iconCarousel', 'Next']);">
+					<i class="fa fa-arrow-circle-right"></i></a>
+			</div>
+		</div>
+	</div>
+
+</div>
+</div>
+	<!-- TODO: Create my project :-) -->
+{% endblock %}
