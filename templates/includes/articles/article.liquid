@@ -1,0 +1,8 @@
+<article>
+	<h2><a href="{{ article.slug }}">{{ article.title }}</a></h2>
+	{% assign post = article %}
+	{% include "articles/date-tags" %}
+	{% capture more %}... <a href="{{ article.slug }}" class="more">Read the full post</a>{% endcapture %}
+	<p>{{ article.body | strip_html | truncatewords:50,more }}</p>
+	<hr>
+</article>

@@ -1,0 +1,15 @@
+{% layout "blog-layout" %}
+{% block content %}
+<div>
+  <h1>Tags:</h1>
+  <div class="tags-container">
+  {% grouped 'posts' by 'tags' %}
+    <ul>
+    {% for group in grouped.items %}
+      <li><a href="/blog/tags/{{ group.name }}">{{ group.name }} <span>({{ group.count }})</span></a></li>
+    {% endfor %}
+    </ul>
+  {% endgrouped %}
+  </div>
+</div>
+{% endblock %}
