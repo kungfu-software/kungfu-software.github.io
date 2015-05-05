@@ -1,9 +1,9 @@
 {
   "convertHtml": {
-    "relativePaths": true
+    "relativePaths": false
   },
   "debug": false,
-  "domain": null,
+  "domain": "kungfu-software.github.io",
   "lintScripts": false,
   "modelSource": null,
   "preprocessorLocations": [
