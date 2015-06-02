@@ -1,9 +1,26 @@
+#navbar {
+  border: 0;
+}
 .navbar {
   height: 70px;
   width: 100%;
 }
+.navbar button.navbar-toggle.collapsed,
+.navbar button.navbar-toggle {
+  border-color: #fff;
+  margin-right: 20px;
+  margin-top: 20px;
+  background-color: rgba(0, 0, 0, 0) !important;
+}
+.navbar button.navbar-toggle {
+  background-color: rgba(0, 0, 0, 0) !important;
+}
+.navbar button.navbar-toggle:hover {
+  background-color: rgba(0, 0, 0, 0) !important;
+}
 .navbar .company-logo {
   margin-top: 10px;
+  margin-left: 20px;
 }
 .navbar .company-logo a {
   display: block;
@@ -21,7 +38,7 @@
 .navbar .company-logo .fa-desktop {
   color: #f0f0f0 !important;
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 600px) {
   .navbar .navbar-collapse {
     background: rgba(28, 142, 243, 0.9);
     opacity: 0.9;
@@ -80,9 +97,7 @@
   position: relative;
 }
 .jumbotron.jumbotron-carousel .carousel-inner .hybris-logo {
-  height: 33%;
-  width: 33%;
-  top: -25px;
+  top: -26px;
   position: relative;
 }
 .jumbotron.jumbotron-carousel .carousel-control {
@@ -137,6 +152,16 @@
   width: 41px;
   height: 50px;
 }
+.main-body #services .hybris-experts,
+.main-body #services .apple-fan-boys {
+  margin-left: 5px;
+  top: 10px;
+  position: relative;
+}
+.main-body #services .apple-fan-boys {
+  margin-left: -2px;
+  top: 17px;
+}
 .main-body #services .fi-social-adobe {
   color: #f72222;
 }
@@ -144,37 +169,115 @@
   margin: 10px;
   padding: 10px;
 }
-.main-body #platforms .hybris-logo img {
-  width: 80%;
-  height: 95%;
-  top: 20px;
+.main-body #platforms .hybris-logo,
+.main-body #platforms .google-logo,
+.main-body #platforms .spring-logo,
+.main-body #platforms .meteor-logo,
+.main-body #platforms .adobe-logo,
+.main-body #platforms .apple-logo,
+.main-body #platforms .android-logo,
+.main-body #platforms .angularjs-logo {
+  width: 250px;
+  height: 120px;
   position: relative;
 }
-.main-body #platforms .android-logo .fa-android {
-  font-size: 110px;
-  color: #0de944;
-  left: 70px;
-  position: relative;
+.main-body #platforms .hybris-logo img {
+  height: 50%;
+  width: 90%;
+  top: 20%;
+  position: absolute;
+}
+.main-body #platforms .google-logo img {
+  top: 4%;
+  left: 10%;
+  width: 75%;
+  position: absolute;
 }
 .main-body #platforms .spring-logo img {
-  height: 80%;
-  width: 80%;
+  top: 10%;
+  position: absolute;
 }
 .main-body #platforms .meteor-logo img {
-  height: 70%;
-  width: 70%;
+  top: 10%;
+  width: 80%;
+  position: absolute;
 }
 .main-body #platforms .adobe-logo img {
-  height: 60%;
-  width: 60%;
+  top: 5%;
+  width: 50%;
+  position: absolute;
 }
-.main-body #platforms .apple-logo {
-  left: 60px;
-  top: 20px;
-  position: relative;
+.main-body #platforms .apple-logo img {
+  left: 20%;
+  position: absolute;
 }
-.main-body #platforms .apple-logo .fa-square {
-  color: #d0cccc;
+.main-body #platforms .android-logo img {
+  margin: 0;
+  left: 28%;
+  position: absolute;
+}
+.main-body #platforms .angularjs-logo img {
+  margin: 0;
+  left: 10%;
+  position: absolute;
+}
+@media screen and (max-width: 640px) {
+  .main-body #platforms .hybris-logo img {
+    height: 32%;
+    width: 64%;
+    margin: 0;
+    padding: 0;
+    top: 40px;
+    position: absolute;
+  }
+  .main-body #platforms .google-logo img {
+    width: 60%;
+    margin: 0;
+    padding: 0;
+    left: 0;
+    top: 20px;
+    position: absolute;
+  }
+  .main-body #platforms .spring-logo img {
+    width: 60%;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+  }
+  .main-body #platforms .meteor-logo img {
+    width: 60% !important;
+    margin: 0;
+    padding: 0;
+    top: 10%;
+    width: 80%;
+    position: absolute;
+  }
+  .main-body #platforms .adobe-logo img {
+    margin: 0;
+    padding: 0;
+    width: 50%;
+    position: absolute;
+  }
+  .main-body #platforms .apple-logo img {
+    margin: 0;
+    padding: 0;
+    left: 0;
+    position: absolute;
+  }
+  .main-body #platforms .android-logo img {
+    margin: 0;
+    padding: 0;
+    left: 15px;
+    top: 20px;
+    position: absolute;
+  }
+  .main-body #platforms .angularjs-logo img {
+    margin: 0;
+    padding: 0;
+    left: 5px;
+    top: 20px;
+    position: absolute;
+  }
 }
 #team .profile img {
   transition: all 0.5s ease-in;
@@ -257,25 +360,20 @@
   color: #f72222;
 }
 footer {
-  background-color: #e7e7e7;
+  background-color: rgba(33, 144, 243, 0.9);
 }
 footer .panel {
   margin-top: 50px;
 }
 footer i {
-  color: white;
+  color: #C4C4C4;
 }
 footer i:hover {
-  color: #d1d1d1;
-}
-footer .panel-heading,
-footer .panel-body {
-  background-color: rgba(12, 118, 213, 0.9) !important;
-  color: white !important;
+  color: #A8A8A8;
 }
 footer .panel-heading a:hover,
 footer .panel-body a:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
 footer .fa-heart {
   color: #ff0077;
@@ -287,6 +385,6 @@ footer .footer a:hover {
   color: black;
   cursor: hand;
 }
-footer .fa-usd {
-  color: #e9d719;
+footer .text-right {
+  color: white;
 }
