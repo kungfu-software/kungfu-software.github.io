@@ -1,8 +1,11 @@
+{% capture _slug %}{{article.slug | remove: '/posts/'}}{% endcapture %}
+
 <article>
-	<h2><a href="{{ article.slug }}">{{ article.title }}</a></h2>
-	{% assign post = article %}
+  {% assign post = article %}
+	<h2><a href="/blog/{{ post.date | date: '%Y' }}/{{ post.date | date: '%m' }}/{{ post.date | date:'%d'}}/{{_slug}}">{{ article.title }}</a></h2>
+
 	{% include "articles/date-tags" %}
-	{% capture more %}... <a href="{{ article.slug }}" class="more">Read the full post</a>{% endcapture %}
+	{% capture more %}... <a href="/blog/{{ post.date | date: '%Y' }}/{{ post.date | date: '%m' }}/{{ post.date | date:'%d'}}/{{_slug}}" class="more">Read the full post</a>{% endcapture %}
 	<p>{{ article.body | strip_html | truncatewords:50,more }}</p>
 	<hr>
 </article>

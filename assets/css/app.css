@@ -1,9 +1,27 @@
+#navbar {
+  border: 0;
+}
 .navbar {
-  height: 70px;
+  border-radius: 0 !important;
   width: 100%;
+  position: relative;
+  min-height: 70px;
+  margin-bottom: 0 !important;
+}
+.navbar button.navbar-toggle.collapsed,
+.navbar button.navbar-toggle {
+  border-color: #fff;
+  background-color: rgba(0, 0, 0, 0) !important;
+}
+.navbar button.navbar-toggle {
+  background-color: rgba(0, 0, 0, 0) !important;
+}
+.navbar button.navbar-toggle:hover {
+  background-color: rgba(0, 0, 0, 0) !important;
 }
 .navbar .company-logo {
   margin-top: 10px;
+  margin-left: 20px;
 }
 .navbar .company-logo a {
   display: block;
@@ -21,13 +39,9 @@
 .navbar .company-logo .fa-desktop {
   color: #f0f0f0 !important;
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 800px) {
   .navbar .navbar-collapse {
-    background: rgba(28, 142, 243, 0.9);
-    opacity: 0.9;
-  }
-  .navbar .navbar-collapse ul li {
-    border-bottom: 1px solid #fff;
+    opacity: 1;
   }
 }
 .navbar .navbar-nav {
@@ -45,10 +59,9 @@
   background: rgba(33, 144, 243, 0.9);
 }
 .jumbotron.jumbotron-carousel {
-  margin-top: 70px;
-  background-color: rgba(28, 142, 243, 0.9);
-  border-color: rgba(33, 144, 243, 0.9);
-  border-top: 1px solid rgba(255, 255, 255, 0.5);
+  background-color: rgba(33, 144, 243, 0.9);
+  border-color: rgba(28, 142, 243, 0.9);
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
   color: white;
 }
 .jumbotron.jumbotron-carousel h1 {
@@ -80,9 +93,7 @@
   position: relative;
 }
 .jumbotron.jumbotron-carousel .carousel-inner .hybris-logo {
-  height: 33%;
-  width: 33%;
-  top: -25px;
+  top: -26px;
   position: relative;
 }
 .jumbotron.jumbotron-carousel .carousel-control {
@@ -137,6 +148,16 @@
   width: 41px;
   height: 50px;
 }
+.main-body #services .hybris-experts,
+.main-body #services .apple-fan-boys {
+  margin-left: 5px;
+  top: 10px;
+  position: relative;
+}
+.main-body #services .apple-fan-boys {
+  margin-left: -2px;
+  top: 17px;
+}
 .main-body #services .fi-social-adobe {
   color: #f72222;
 }
@@ -144,37 +165,127 @@
   margin: 10px;
   padding: 10px;
 }
-.main-body #platforms .hybris-logo img {
-  width: 80%;
-  height: 95%;
-  top: 20px;
+.main-body #platforms .hybris-logo,
+.main-body #platforms .google-logo,
+.main-body #platforms .spring-logo,
+.main-body #platforms .meteor-logo,
+.main-body #platforms .adobe-logo,
+.main-body #platforms .apple-logo,
+.main-body #platforms .android-logo,
+.main-body #platforms .angularjs-logo {
+  width: 250px;
+  height: 120px;
   position: relative;
 }
-.main-body #platforms .android-logo .fa-android {
-  font-size: 110px;
-  color: #0de944;
-  left: 70px;
-  position: relative;
+.main-body #platforms .hybris-logo img {
+  height: 50%;
+  width: 90%;
+  top: 20%;
+  position: absolute;
+}
+.main-body #platforms .google-logo img {
+  top: 4%;
+  left: 10%;
+  width: 75%;
+  position: absolute;
 }
 .main-body #platforms .spring-logo img {
-  height: 80%;
-  width: 80%;
+  top: 10%;
+  position: absolute;
 }
 .main-body #platforms .meteor-logo img {
-  height: 70%;
-  width: 70%;
+  top: 10%;
+  width: 80%;
+  position: absolute;
 }
 .main-body #platforms .adobe-logo img {
-  height: 60%;
-  width: 60%;
+  top: 5%;
+  width: 50%;
+  position: absolute;
 }
-.main-body #platforms .apple-logo {
-  left: 60px;
-  top: 20px;
-  position: relative;
+.main-body #platforms .apple-logo img {
+  left: 20%;
+  position: absolute;
 }
-.main-body #platforms .apple-logo .fa-square {
-  color: #d0cccc;
+.main-body #platforms .android-logo img {
+  margin: 0;
+  left: 28%;
+  position: absolute;
+}
+.main-body #platforms .angularjs-logo img {
+  margin: 0;
+  left: 10%;
+  position: absolute;
+}
+@media screen and (max-width: 800px) {
+  .main-body #platforms .hybris-logo img {
+    height: 32%;
+    width: 64%;
+    margin: 0;
+    padding: 0;
+    top: 40px;
+    position: absolute;
+  }
+  .main-body #platforms .google-logo img {
+    width: 60%;
+    margin: 0;
+    padding: 0;
+    left: 0;
+    top: 20px;
+    position: absolute;
+  }
+  .main-body #platforms .spring-logo img {
+    width: 60%;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+  }
+  .main-body #platforms .meteor-logo img {
+    width: 60% !important;
+    margin: 0;
+    padding: 0;
+    top: 10%;
+    width: 80%;
+    position: absolute;
+  }
+  .main-body #platforms .adobe-logo img {
+    margin: 0;
+    padding: 0;
+    width: 50%;
+    position: absolute;
+  }
+  .main-body #platforms .apple-logo img {
+    margin: 0;
+    padding: 0;
+    left: 0;
+    position: absolute;
+  }
+  .main-body #platforms .android-logo img {
+    margin: 0;
+    padding: 0;
+    left: 15px;
+    top: 20px;
+    position: absolute;
+  }
+  .main-body #platforms .angularjs-logo img {
+    margin: 0;
+    padding: 0;
+    left: 5px;
+    top: 20px;
+    position: absolute;
+  }
+}
+#team {
+  height: 350px;
+}
+@media screen and (max-width: 640px) {
+  #team {
+    height: 550px;
+  }
+}
+#team .profile {
+  margin-top: 20px;
+  padding-top: 20px;
 }
 #team .profile img {
   transition: all 0.5s ease-in;
@@ -184,7 +295,7 @@
 }
 #team .profile .profile-desc {
   opacity: 0;
-  top: 50%;
+  top: 0;
   position: absolute;
   transition: all 0.5s ease-in;
   color: rgba(175, 173, 173, 0.74);
@@ -195,12 +306,13 @@
 }
 #team .profile:hover img {
   cursor: cell;
-  opacity: 0.9;
+  opacity: 0.5;
 }
 #team .profile:hover .profile-desc {
   opacity: 1;
-  top: 100%;
+  top: 55%;
   color: #989898;
+  z-index: 9999;
 }
 #team .profile:hover .profile-desc ul.list-group {
   padding-left: 0px;
@@ -209,7 +321,7 @@
 #team .profile:hover i.fa-linkedin {
   display: block;
   color: #0e76a8;
-  top: 71px;
+  top: 91px;
   left: 20px;
   font-size: 30px;
   position: absolute;
@@ -220,7 +332,7 @@
 #team .profile:hover i.fa-twitter {
   display: block;
   color: #4099FF;
-  top: 73px;
+  top: 93px;
   left: 163px;
   font-size: 30px;
   position: absolute;
@@ -231,7 +343,7 @@
 #team .profile:hover i.fa-weibo {
   display: block;
   color: #f72222;
-  top: 148px;
+  top: 40px;
   left: 90px;
   font-size: 30px;
   position: absolute;
@@ -244,38 +356,41 @@
 }
 #team .profile img {
   background: rgba(148, 144, 144, 0.8);
-  opacity: 0.3;
+  opacity: 0.9;
 }
 #contact #mapCanvas {
-  width: 450px;
-  height: 450px;
+  width: 100%;
+  height: 500px;
   border: 1px solid rgba(33, 144, 243, 0.9);
   box-shadow: 2px 2px 10px rgba(1, 11, 20, 0.9);
   border-radius: 20px;
 }
+@media screen and (max-width: 550px) {
+  #contact #mapCanvas {
+    height: 350px;
+  }
+}
 #contact .fa-map-marker {
   color: #f72222;
 }
+#contact .split-gap {
+  height: 80px;
+}
 footer {
-  background-color: #e7e7e7;
+  background-color: rgba(33, 144, 243, 0.9);
 }
 footer .panel {
   margin-top: 50px;
 }
 footer i {
-  color: white;
+  color: #C4C4C4;
 }
 footer i:hover {
-  color: #d1d1d1;
-}
-footer .panel-heading,
-footer .panel-body {
-  background-color: rgba(12, 118, 213, 0.9) !important;
-  color: white !important;
+  color: #A8A8A8;
 }
 footer .panel-heading a:hover,
 footer .panel-body a:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
 footer .fa-heart {
   color: #ff0077;
@@ -287,6 +402,6 @@ footer .footer a:hover {
   color: black;
   cursor: hand;
 }
-footer .fa-usd {
-  color: #e9d719;
+footer .text-right {
+  color: white;
 }

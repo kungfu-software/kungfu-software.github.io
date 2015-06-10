@@ -1,0 +1,44 @@
+{% layout "blog-layout" %}
+
+{% block vars %}
+  {% collection "posts" by 1 query "slug=/posts/{{ mixture.route.url }}" %}
+    {% assign post = collection.items.first %}
+  {% endcollection %}
+{% endblock %}
+
+{% block title %}
+  {{ global.title }} | {{ post.title }}
+{% endblock %}
+
+{% block stylesheet %}
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.6/styles/zenburn.min.css">
+{% endblock %}
+
+{% block script_tag_header %}
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.6/highlight.min.js"></script>
+{% endblock %}
+
+{% block content %}
+
+  {% if post.title %}
+    <h2>{{ post.title }}</h2>
+  {% endif %}
+
+  {% if post.date %}
+    <p class="date">{{ post.date | date: "%B %d, %Y" }}
+    {% if post.guest %} &mdash; by {{ post.guest }}{% endif %}
+    </p>
+  {% endif %}
+
+  {{ post.body }}
+
+  {% if post.comments %}
+    {% include 'comments-section' %}
+  {% endif %}
+{% endblock %}
+
+{% block script_tag_footer %}
+  <script>hljs.initHighlightingOnLoad();</script>
+{% endblock %}
+
+

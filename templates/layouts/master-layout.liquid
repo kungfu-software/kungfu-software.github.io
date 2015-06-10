@@ -4,6 +4,9 @@
         <!-- Title block allowing child pages to override -->
         <title>{% block title %}Kung Fu Software - SAP Hybris + Adobe Experience Manager + Wev Dev Shops{% endblock %}</title>
         <link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
+        <meta name=viewport content="width=device-width, initial-scale=1">
+
+
         <!-- Styles -->
         {{ "app.css" | asset_url | stylesheet_tag }}
 
@@ -61,8 +64,6 @@
         <!-- {% include "footer" %} -->
         <!-- Script block allowing child pages to inject their own scripts -->
         {% block scripts %}{% endblock %}
-
-        {{"holder.js" | asset_url | script_tag}}
         {{ "app.js" | asset_url | script_tag }}
 
     </body>

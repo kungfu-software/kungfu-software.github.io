@@ -1,4 +1,5 @@
 {% layout "blog-layout" %}
+
 {% block content %}
 	<div>
 		<h1>Archive</h1>
@@ -7,7 +8,8 @@
 			<h3>{{ item.year }}</h3>
 			<ul class="archive">
 			{% for post in item.children %}
-				<li><a href="{{ post.slug }}">{{ post.title }}</a></li>
+				{% capture _slug %}{{post.slug | remove: '/posts/'}}{% endcapture %}
+				<li><a href="/blog/{{ post.date | date: '%Y' }}/{{ post.date | date: '%m' }}/{{ post.date | date:'%d'}}/{{_slug}}">{{ post.title }}</a></li>
 			{% endfor %}
 			</ul>
 		{% endfor %}

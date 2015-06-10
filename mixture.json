@@ -1,9 +1,13 @@
 {
   "convertHtml": {
-    "relativePaths": false
+    "extension": ".html",
+    "path": null,
+    "ignoreUrls": null,
+    "relativePaths": false,
+    "default": "index"
   },
   "debug": false,
-  "domain": "kungfu-software.github.io",
+  "domain": "kungfusoftware.net",
   "lintScripts": false,
   "modelSource": null,
   "preprocessorLocations": [
@@ -47,6 +51,11 @@
       "redirect": null,
       "route": "/blog/tag/:tag",
       "template": "blog"
+    },
+    {
+      "route": "/blog/:year/:month/:day/:url",
+      "template": "post",
+      "redirect": null
     }
   ]
 }
