@@ -18,28 +18,14 @@
 	<guid>/posts/ecommerce-solutions-on-the-market</guid>
 	
 	<pubDate>Wed, 03 Jun 2015 00:00:00 GMT</pubDate>
-	<description>Ecommerce Solutions on the market With the new Gartner Report for Digital Commerce, Gartner listed SAP hybris as the best Ecommerce Platform among other 10 ecommerce solutions. And pointed Hybris receives highest product scores in all 3 use cases. Click here to ask for a free report. I feel good...</description>
+	<description>With the new Gartner Report for Digital Commerce, Gartner listed SAP hybris as the best Ecommerce Platform among other 10 ecommerce solutions. And pointed Hybris receives highest product scores in all 3 use cases. Click here to ask for a free report. I feel good because I have been working...</description>
 </item><item>
-	<title>Markdown Example post</title>
-	<link>http://link.com/posts/example-post3</link>
-	<guid>/posts/example-post3</guid>
+	<title>Release Notes</title>
+	<link>http://link.com/posts/release-notes</link>
+	<guid>/posts/release-notes</guid>
 	
-	<pubDate>Wed, 03 Apr 2013 00:00:00 GMT</pubDate>
-	<description>Example post 2 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. “Lorem ipsum dolor sit amet” Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat....</description>
-</item><item>
-	<title>liquid Example post</title>
-	<link>http://link.com/posts/example-post2</link>
-	<guid>/posts/example-post2</guid>
-	
-	<pubDate>Wed, 03 Apr 2013 00:00:00 GMT</pubDate>
-	<description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. &amp;#8220;Lorem ipsum dolor sit amet&amp;#8221; Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim...</description>
-</item><item>
-	<title>Haml Example post</title>
-	<link>http://link.com/posts/example-post1</link>
-	<guid>/posts/example-post1</guid>
-	
-	<pubDate>Wed, 03 Apr 2013 00:00:00 GMT</pubDate>
-	<description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. &amp;#8220;Lorem ipsum dolor sit amet&amp;#8221; Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim...</description>
+	<pubDate>Wed, 01 Apr 2015 00:00:00 GMT</pubDate>
+	<description>V1.1.0 - 10 Jun 2015 add domain kungfusoftware.net refactor the blog feature add disqus comments feature add hosted email solution update the contents bugs fix add code highlighting functions Code highlighting Example javascript var test = {&#39;name&#39;:&#39;Seabook&#39;, &#39;age&#39;: 30} html &amp;lt;h1&amp;gt;Kungfu Software Rocks&amp;lt;/h1&amp;gt; &amp;lt;p&amp;gt;Hello World&amp;lt;/p&amp;gt; python from sys import argv...</description>
 </item>
 		
 	</channel>
