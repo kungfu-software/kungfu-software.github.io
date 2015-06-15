@@ -6,6 +6,11 @@ slug: /release-notes
 tags: [example,release-notes]
 ---
 
+## V1.1.1 - 15 Jun 2015
+  - add basic google analytics
+  - add author info sections
+  - bug fixes
+
 ## V1.1.0 - 10 Jun 2015
   - add domain [kungfusoftware.net](http://kungfusoftware.net)
   - refactor the blog feature
