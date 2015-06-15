@@ -10,8 +10,8 @@
       "published": true,
       "date": "2015-06-03T00:00:00Z",
       "slug": "/posts/ecommerce-solutions-on-the-market",
-      "summary": true,
       "comments": true,
+      "author": "seabook",
       "tags": [
         "hybris",
         "ecommerce"

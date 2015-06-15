@@ -32,6 +32,15 @@
 
   {{ post.body }}
 
+  {% if post.author == 'seabook' %}
+    {% include 'authors/seabookchen' %}
+  {% elsif post.author == 'hetty' %}
+    {% include 'authors/hettytan' %}
+  {% else %}
+
+  {% endif %}
+
+
   {% if post.comments %}
     {% include 'comments-section' %}
   {% endif %}

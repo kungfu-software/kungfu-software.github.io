@@ -4,10 +4,11 @@
         {% block vars %}{% endblock %}
         <meta name="HandheldFriendly" content="True">
         <meta name="MobileOptimized" content="320">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
         <title>{% block title %}{{ global.title }}{% endblock %}</title>
         <link rel="alternate" type="application/rss+xml" href="/rss" title="RSS Feed">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
         <link rel="stylesheet" href="{{ "blog-layout.css" | asset_url }}" media="(min-width:1em)">
         {% block stylesheet %}{% endblock %}
         {% block script_tag_header %}{% endblock %}

@@ -6,8 +6,8 @@
         "published": true,
         "date": "2015-06-03 00:00:00 UTC",
         "slug": "/posts/ecommerce-solutions-on-the-market",
-        "summary": true,
         "comments": true,
+        "author": "seabook",
         "tags": [
           "hybris",
           "ecommerce"
@@ -69,16 +69,6 @@
           "/posts/release-notes"
         ]
       },
-      "summary": {
-        "true": [
-          "/posts/ecommerce-solutions-on-the-market"
-        ]
-      },
-      "transliterated-summary": {
-        "true": [
-          "/posts/ecommerce-solutions-on-the-market"
-        ]
-      },
       "comments": {
         "true": [
           "/posts/ecommerce-solutions-on-the-market"
@@ -86,6 +76,16 @@
       },
       "transliterated-comments": {
         "true": [
+          "/posts/ecommerce-solutions-on-the-market"
+        ]
+      },
+      "author": {
+        "seabook": [
+          "/posts/ecommerce-solutions-on-the-market"
+        ]
+      },
+      "transliterated-author": {
+        "seabook": [
           "/posts/ecommerce-solutions-on-the-market"
         ]
       },

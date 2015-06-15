@@ -3,8 +3,8 @@ title: Ecommerce Solutions on the market
 published: true
 date: 2015-06-03 00:00
 slug: /ecommerce-solutions-on-the-market
-summary: true
 comments: true
+author: seabook
 tags: [hybris,ecommerce]
 ---
 
