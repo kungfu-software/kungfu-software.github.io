@@ -4,28 +4,28 @@
 	<channel>
 		<generator>Kungfu Software</generator>
 		<title>Kungfu Software</title>
-		<link>http://link.com</link>
+		<link>http://www.kungfusoftware.net</link>
 		<description>A simple blog to describe the company's whole journey.</description>
 		<language>en</language>
-		<webMaster>mail@yourmail.com</webMaster>
+		<webMaster>admin@kungfusoftware.net</webMaster>
 		<copyright>2015</copyright>
 		<pubDate>Thu, 06 Jun 2013 12:17:05 GMT</pubDate>
 		<lastBuildDate>Thu, 06 Jun 2013 12:17:05 GMT</lastBuildDate>
 		
 			<item>
 	<title>Ecommerce Solutions on the market</title>
-	<link>http://link.com/posts/ecommerce-solutions-on-the-market</link>
+	<link>http://www.kungfusoftware.net/posts/ecommerce-solutions-on-the-market</link>
 	<guid>/posts/ecommerce-solutions-on-the-market</guid>
 	
 	<pubDate>Wed, 03 Jun 2015 00:00:00 GMT</pubDate>
 	<description>With the new Gartner Report for Digital Commerce, Gartner listed SAP hybris as the best Ecommerce Platform among other 10 ecommerce solutions. And pointed Hybris receives highest product scores in all 3 use cases. Click here to ask for a free report. I feel good because I have been working...</description>
 </item><item>
 	<title>Release Notes</title>
-	<link>http://link.com/posts/release-notes</link>
+	<link>http://www.kungfusoftware.net/posts/release-notes</link>
 	<guid>/posts/release-notes</guid>
 	
 	<pubDate>Wed, 01 Apr 2015 00:00:00 GMT</pubDate>
-	<description>V1.1.0 - 10 Jun 2015 add domain kungfusoftware.net refactor the blog feature add disqus comments feature add hosted email solution update the contents bugs fix add code highlighting functions Code highlighting Example javascript var test = {&#39;name&#39;:&#39;Seabook&#39;, &#39;age&#39;: 30} html &amp;lt;h1&amp;gt;Kungfu Software Rocks&amp;lt;/h1&amp;gt; &amp;lt;p&amp;gt;Hello World&amp;lt;/p&amp;gt; python from sys import argv...</description>
+	<description>V1.1.1 - 15 Jun 2015 add basic google analytics add author info sections bug fixes V1.1.0 - 10 Jun 2015 add domain kungfusoftware.net refactor the blog feature add disqus comments feature add hosted email solution update the contents bugs fix add code highlighting functions Code highlighting Example javascript var test...</description>
 </item>
 		
 	</channel>
