@@ -37,8 +37,14 @@
   {% elsif post.author == 'hetty' %}
     {% include 'authors/hettytan' %}
   {% else %}
-
+    <!-- include other authros -->
   {% endif %}
+
+  <hr>
+
+  <div class="text-center">
+     {% include 'social-sharing' %}
+  </div>
 
 
   {% if post.comments %}

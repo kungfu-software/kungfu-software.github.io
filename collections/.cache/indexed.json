@@ -12,7 +12,7 @@
           "hybris",
           "ecommerce"
         ],
-        "body": "\n<p><img src=\"http://outfresh.com/wp-content/uploads/2015/03/ecommerce2.jpg\" alt=\"nice starting image\" /></p>\n\n<p>With the new Gartner Report for Digital Commerce, Gartner listed SAP hybris as the best Ecommerce Platform among other 10 ecommerce solutions.<br />\nAnd pointed Hybris receives highest product scores in all 3 use cases. Click <a href=\"\">here</a> to ask for a free report.<br />\nI feel good because I have been working with hybris for 3+ years. I thought I might share my own thoughts among all the ecommerce solutions I used or I will potentially use in the future.</p>\n\n<h3><strong><a href=\"https://www.hybris.com\">SAP Hybris</a></strong></h3>\n<p>Before joined SAP, Hybris is fully focused on Ecommerce Solution. Nowadays, they try to explore to different sectors such as Telco, Financial Services and Goverment Public Sector businesses.</p>\n\n<p><strong>Pros:</strong><br />\n  - Hybris have lots of gigs in Ecommerce Solution, such as b2c accelerator, b2b accelerator, product cockpit, Customer Service Cockpit, multi languages, multi currencies support, multi sites support etc.<br />\n  - It’s a full ecommerce solution built upon their own data layer and open souce stack (Spring).<br />\n  - Hybris uses lots of open source technology and it’s not tied to one specific enviorment, which I mean you dont have to use websphere or oracle as webserver and DB etc.</p>\n\n<p><strong>Cons:</strong><br />\n  - The Cost is high. Considering the licenses cost and most importantly the technical consultants cost.<br />\n  - It’s a complex platform. Especially after SAP accqusition, there are lots of new stuffs coming into the platform such as Backoffice, Datahub, yForms etc.</p>\n\n<p><strong>Customers In Australia:</strong><br />\n  - <a href=\"https://target.com.au\">Target Australia</a>, <a href=\"http://www.harrisscarfe.com.au\">Harris Scarfe</a>, <a href=\"https://www.spotlight.com.au/\">Spotlight</a>, <a href=\"http://www.landmark.com.au/\">Landmark</a>,<a href=\"http://www.bookworld.com.au/\">Book World</a>, <a href=\"https://www.bigw.com.au\">Bigw</a></p>\n\n<h3><strong><a href=\"http://www.oracle.com/us/products/applications/commerce/commerce-platform/overview/index.html\">Oracle ATG</a></strong></h3>\n<p><em>Disclaimer: I never used ATG. So I dont know the depth.</em></p>\n\n<p><strong>Pros:</strong><br />\n  - Fully backed by Oracle.</p>\n\n<p><strong>Cons:</strong><br />\n  - The cost is high. The technical consultant are in demand.<br />\n  - Tied with Oracle Dev enviorment.</p>\n\n<p><strong>Customers In Australia:</strong><br />\n  - N/A</p>\n\n<h3><strong><a href=\"http://www-03.ibm.com/software/products/en/websphere-commerce\">IBM Websphere Commerce</a></strong></h3>\n<p><em>Disclaimer: I never used Websphere Commerce. So I dont know the depth.</em><br />\n<strong>Pros:</strong><br />\n  - Fully backed by IBM.</p>\n\n<p><strong>Cons:</strong><br />\n  - The cost is high. The technical consultant are in demand.<br />\n  - Tied with IBM Dev enviorment.</p>\n\n<p><strong>Customers In Australia:</strong><br />\n  - <a href=\"http://shop.coles.com.au\">Coles</a>, <a href=\"http://myer.com.au\">myer</a>, <a href=\"http://www.kmart.com.au\">kmart</a></p>\n\n<h3><strong><a href=\"http://magento.com/company/overview\">ebay Magento</a></strong></h3>\n<p><strong>Pros:</strong><br />\n  - Relatively Cheap<br />\n  - Integrated to ebay by default</p>\n\n<p><strong>Cons:</strong><br />\n  - Maybe hard to maintain during the long cause.<br />\n  - Slowish</p>\n\n<p><strong>Customers in Australia:</strong><br />\n  - <a href=\"https://www.dicksmith.com.au\">Dick Smith</a>, <a href=\"https://www.harveynorman.com.au\">Harvey Norman</a></p>\n\n<h3><strong><a href=\"http://www.shopify.com.au\">Shopify</a></strong> and <strong><a href=\"https://www.bigcommerce.com\">Big Commerce</a></strong></h3>\n<p><strong>Pros:</strong><br />\n  - Cheap<br />\n  - Dont have to have a dedicated Technical Team<br />\n  - Cloud Based solutions</p>\n\n<p><strong>Cons:</strong><br />\n  - May have trouble to integrate with other system<br />\n  - It’s not very enterprise feeling.</p>\n\n<p><strong>Customers in Australia:</strong><br />\n  - Lots of small businesses.</p>\n\n<h3><strong>Others (<a href=\"http://www.woothemes.com/woocommerce/\">Woo Commerce</a>, <a href=\"https://www.prestashop.com/\">prestashop</a>, <a href=\"http://www.demandware.com/\">demandware</a>)</strong></h3>\n\n<p><img src=\"http://pathmarksolutions.com/wp-content/uploads/2012/03/Ecommerce-logo-panel1.png\" alt=\"all vendors logo\" /></p>\n\n<p><br /><br />\n<br /></p>\n\n<h2>A simple table comparison as below</h2>\n\n<table style=\"margin: 1.2em 0px;padding: 0px; border-collapse: collapse; border-spacing: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; border: 0px;\">\n<thead>\n<tr style=\"border-width: 1px 0px 0px; border-top-style: solid; border-top-color: rgb(204, 204, 204); margin: 0px; padding: 0px; background-color: white;\">\n<th style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;font-weight: bold; background-color: rgb(240, 240, 240);\">Platforms</th>\n<th style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;font-weight: bold; background-color: rgb(240, 240, 240);\">Cost</th>\n<th style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;font-weight: bold; background-color: rgb(240, 240, 240);\">hard to learn</th>\n<th style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;font-weight: bold; background-color: rgb(240, 240, 240);\">Customers</th>\n<th style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;font-weight: bold; background-color: rgb(240, 240, 240);\">Capability</th>\n</tr>\n</thead>\n<tbody style=\"margin: 0px; padding: 0px; border: 0px;\">\n<tr style=\"border-width: 1px 0px 0px; border-top-style: solid; border-top-color: rgb(204, 204, 204); margin: 0px; padding: 0px; background-color: white;\">\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">Hybris</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">high</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">Y</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">target, bigw, spotlight etc</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">high</td>\n</tr>\n<tr style=\"border-width: 1px 0px 0px; border-top-style: solid; border-top-color: rgb(204, 204, 204); margin: 0px; padding: 0px; background-color: white;background-color: rgb(248, 248, 248);\">\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">ATG</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">high</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">Y</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">n/a</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">high</td>\n</tr>\n<tr style=\"border-width: 1px 0px 0px; border-top-style: solid; border-top-color: rgb(204, 204, 204); margin: 0px; padding: 0px; background-color: white;\">\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">Websphere Commerce</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">high</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">Y</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">Coles, Kmart</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">high</td>\n</tr>\n<tr style=\"border-width: 1px 0px 0px; border-top-style: solid; border-top-color: rgb(204, 204, 204); margin: 0px; padding: 0px; background-color: white;background-color: rgb(248, 248, 248);\">\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">Magento</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">mid</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">Y</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">dicksmith, harvey norman</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">mid</td>\n</tr>\n<tr style=\"border-width: 1px 0px 0px; border-top-style: solid; border-top-color: rgb(204, 204, 204); margin: 0px; padding: 0px; background-color: white;\">\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">Shopify</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">low</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">N</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">small businesses</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">low - mid</td>\n</tr>\n<tr style=\"border-width: 1px 0px 0px; border-top-style: solid; border-top-color: rgb(204, 204, 204); margin: 0px; padding: 0px; background-color: white;background-color: rgb(248, 248, 248);\">\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">Big Commerce</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">low</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">N</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">small businesses</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">low - mid</td>\n</tr>\n</tbody>\n</table>\n\n",
+        "body": "\n<p><img src=\"http://outfresh.com/wp-content/uploads/2015/03/ecommerce2.jpg\" alt=\"nice starting image\" /></p>\n\n<p>With the new Gartner Report for Digital Commerce, Gartner listed SAP hybris as the best Ecommerce Platform among other 10 ecommerce solutions.<br />\nAnd pointed Hybris receives highest product scores in all 3 use cases. Click <a href=\"&#109;&#097;&#105;&#108;&#116;&#111;:&#097;&#100;&#109;&#105;&#110;&#064;&#107;&#117;&#110;&#103;&#102;&#117;&#115;&#111;&#102;&#116;&#119;&#097;&#114;&#101;&#046;&#110;&#101;&#116;\">here</a> to ask for a free report.<br />\nI feel good because I have been working with hybris for 3+ years. I thought I might share my own thoughts among all the ecommerce solutions I used or I will potentially use in the future.</p>\n\n<h3><strong><a href=\"https://www.hybris.com\">SAP Hybris</a></strong></h3>\n<p>Before joined SAP, Hybris is fully focused on Ecommerce Solution. Nowadays, they try to explore to different sectors such as Telco, Financial Services and Goverment Public Sector businesses.</p>\n\n<p><strong>Pros:</strong><br />\n  - Hybris have lots of gigs in Ecommerce Solution, such as b2c accelerator, b2b accelerator, product cockpit, Customer Service Cockpit, multi languages, multi currencies support, multi sites support etc.<br />\n  - It’s a full ecommerce solution built upon their own data layer and open souce stack (Spring).<br />\n  - Hybris uses lots of open source technology and it’s not tied to one specific enviorment, which I mean you dont have to use websphere or oracle as webserver and DB etc.</p>\n\n<p><strong>Cons:</strong><br />\n  - The Cost is high. Considering the licenses cost and most importantly the technical consultants cost.<br />\n  - It’s a complex platform. Especially after SAP accqusition, there are lots of new stuffs coming into the platform such as Backoffice, Datahub, yForms etc.</p>\n\n<p><strong>Customers In Australia:</strong><br />\n  - <a href=\"https://target.com.au\">Target Australia</a>, <a href=\"http://www.harrisscarfe.com.au\">Harris Scarfe</a>, <a href=\"https://www.spotlight.com.au/\">Spotlight</a>, <a href=\"http://www.landmark.com.au/\">Landmark</a>,<a href=\"http://www.bookworld.com.au/\">Book World</a>, <a href=\"https://www.bigw.com.au\">BigW</a></p>\n\n<h3><strong><a href=\"http://www.oracle.com/us/products/applications/commerce/commerce-platform/overview/index.html\">Oracle ATG</a></strong></h3>\n<p><em>Disclaimer: I never used ATG. So I dont know the depth.</em></p>\n\n<p><strong>Pros:</strong><br />\n  - Fully backed by Oracle.</p>\n\n<p><strong>Cons:</strong><br />\n  - The cost is high. The technical consultant are in demand.<br />\n  - Tied with Oracle Dev enviorment.</p>\n\n<p><strong>Customers In Australia:</strong><br />\n  - N/A</p>\n\n<h3><strong><a href=\"http://www-03.ibm.com/software/products/en/websphere-commerce\">IBM Websphere Commerce</a></strong></h3>\n<p><em>Disclaimer: I never used Websphere Commerce. So I dont know the depth.</em><br />\n<strong>Pros:</strong><br />\n  - Fully backed by IBM.</p>\n\n<p><strong>Cons:</strong><br />\n  - The cost is high. The technical consultant are in demand.<br />\n  - Tied with IBM Dev enviorment.</p>\n\n<p><strong>Customers In Australia:</strong><br />\n  - <a href=\"http://shop.coles.com.au\">Coles</a>, <a href=\"http://myer.com.au\">myer</a>, <a href=\"http://www.kmart.com.au\">kmart</a></p>\n\n<h3><strong><a href=\"http://magento.com/company/overview\">ebay Magento</a></strong></h3>\n<p><strong>Pros:</strong><br />\n  - Relatively Cheap<br />\n  - Integrated to ebay by default</p>\n\n<p><strong>Cons:</strong><br />\n  - Maybe hard to maintain during the long cause.<br />\n  - Slowish</p>\n\n<p><strong>Customers in Australia:</strong><br />\n  - <a href=\"https://www.dicksmith.com.au\">Dick Smith</a>, <a href=\"https://www.harveynorman.com.au\">Harvey Norman</a></p>\n\n<h3><strong><a href=\"http://www.shopify.com.au\">Shopify</a></strong> and <strong><a href=\"https://www.bigcommerce.com\">Big Commerce</a></strong></h3>\n<p><strong>Pros:</strong><br />\n  - Cheap<br />\n  - Dont have to have a dedicated Technical Team<br />\n  - Cloud Based solutions</p>\n\n<p><strong>Cons:</strong><br />\n  - May have trouble to integrate with other system<br />\n  - It’s not very enterprise feeling.</p>\n\n<p><strong>Customers in Australia:</strong><br />\n  - Lots of small businesses.</p>\n\n<h3><strong>Others (<a href=\"http://www.woothemes.com/woocommerce/\">Woo Commerce</a>, <a href=\"https://www.prestashop.com/\">prestashop</a>, <a href=\"http://www.demandware.com/\">demandware</a>)</strong></h3>\n\n<p><img src=\"http://pathmarksolutions.com/wp-content/uploads/2012/03/Ecommerce-logo-panel1.png\" alt=\"all vendors logo\" /></p>\n\n<p><br /><br />\n<br /></p>\n\n<h2>A simple table comparison as below</h2>\n\n<table style=\"margin: 1.2em 0px;padding: 0px; border-collapse: collapse; border-spacing: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; border: 0px;\">\n<thead>\n<tr style=\"border-width: 1px 0px 0px; border-top-style: solid; border-top-color: rgb(204, 204, 204); margin: 0px; padding: 0px; background-color: white;\">\n<th style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;font-weight: bold; background-color: rgb(240, 240, 240);\">Platforms</th>\n<th style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;font-weight: bold; background-color: rgb(240, 240, 240);\">Cost</th>\n<th style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;font-weight: bold; background-color: rgb(240, 240, 240);\">hard to learn</th>\n<th style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;font-weight: bold; background-color: rgb(240, 240, 240);\">Customers</th>\n<th style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;font-weight: bold; background-color: rgb(240, 240, 240);\">Capability</th>\n</tr>\n</thead>\n<tbody style=\"margin: 0px; padding: 0px; border: 0px;\">\n<tr style=\"border-width: 1px 0px 0px; border-top-style: solid; border-top-color: rgb(204, 204, 204); margin: 0px; padding: 0px; background-color: white;\">\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">Hybris</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">high</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">Y</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">target, bigw, spotlight etc</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">high</td>\n</tr>\n<tr style=\"border-width: 1px 0px 0px; border-top-style: solid; border-top-color: rgb(204, 204, 204); margin: 0px; padding: 0px; background-color: white;background-color: rgb(248, 248, 248);\">\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">ATG</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">high</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">Y</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">n/a</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">high</td>\n</tr>\n<tr style=\"border-width: 1px 0px 0px; border-top-style: solid; border-top-color: rgb(204, 204, 204); margin: 0px; padding: 0px; background-color: white;\">\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">Websphere Commerce</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">high</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">Y</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">Coles, Kmart</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">high</td>\n</tr>\n<tr style=\"border-width: 1px 0px 0px; border-top-style: solid; border-top-color: rgb(204, 204, 204); margin: 0px; padding: 0px; background-color: white;background-color: rgb(248, 248, 248);\">\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">Magento</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">mid</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">Y</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">dicksmith, harvey norman</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">mid</td>\n</tr>\n<tr style=\"border-width: 1px 0px 0px; border-top-style: solid; border-top-color: rgb(204, 204, 204); margin: 0px; padding: 0px; background-color: white;\">\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">Shopify</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">low</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">N</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">small businesses</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">low - mid</td>\n</tr>\n<tr style=\"border-width: 1px 0px 0px; border-top-style: solid; border-top-color: rgb(204, 204, 204); margin: 0px; padding: 0px; background-color: white;background-color: rgb(248, 248, 248);\">\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">Big Commerce</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">low</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">N</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">small businesses</td>\n<td style=\"text-align:left; font-size: 1em; border: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0.5em 1em;\">low - mid</td>\n</tr>\n</tbody>\n</table>\n\n",
         "month": "06",
         "year": "2015",
         "ticks": 1433289600.0,
@@ -28,12 +28,30 @@
           "example",
           "release-notes"
         ],
-        "body": "\n<h2>V1.1.0 - 10 Jun 2015</h2>\n<ul>\n  <li>add domain <a href=\"http://kungfusoftware.net\">kungfusoftware.net</a></li>\n  <li>refactor the blog feature</li>\n  <li>add disqus comments feature</li>\n  <li>add hosted email solution</li>\n  <li>update the contents</li>\n  <li>bugs fix</li>\n  <li>add code highlighting functions</li>\n</ul>\n\n<p>Code highlighting Example</p>\n\n<ul>\n  <li>javascript</li>\n</ul>\n\n<pre><code class=\"language-javascript\">  var test = {'name':'Seabook', 'age': 30}\n</code></pre>\n<ul>\n  <li>html</li>\n</ul>\n\n<pre><code class=\"language-html\">  &lt;h1&gt;Kungfu Software Rocks&lt;/h1&gt;\n  &lt;p&gt;Hello World&lt;/p&gt;\n</code></pre>\n<ul>\n  <li>python</li>\n</ul>\n\n<pre><code class=\"language-python\">  from sys import argv\n  script, first, second, third = argv\n  print \"The script is called:\", script\n</code></pre>\n\n<h2>V1.0.2 - 3 Jun 2015</h2>\n<ul>\n  <li>make the site responsive</li>\n  <li>fix responsive issues</li>\n  <li>polish the pictures</li>\n  <li>fix some bugs</li>\n</ul>\n\n<h2>V1.0.1 - 5 May 2015</h2>\n<ul>\n  <li>Finish the site strucutre</li>\n  <li>Finish the DESKTOP Site CSS</li>\n  <li>add blog features to the site</li>\n  <li>host on github by using github pages feature</li>\n</ul>\n\n<h2>V0.1.0 - 13 Feb 2015</h2>\n<ul>\n  <li>init the project to github</li>\n  <li>design the site</li>\n</ul>\n",
+        "body": "\n<h2>V1.1.1 - 15 Jun 2015</h2>\n<ul>\n  <li>add basic google analytics</li>\n  <li>add author info sections</li>\n  <li>bug fixes</li>\n</ul>\n\n<h2>V1.1.0 - 10 Jun 2015</h2>\n<ul>\n  <li>add domain <a href=\"http://kungfusoftware.net\">kungfusoftware.net</a></li>\n  <li>refactor the blog feature</li>\n  <li>add disqus comments feature</li>\n  <li>add hosted email solution</li>\n  <li>update the contents</li>\n  <li>bugs fix</li>\n  <li>add code highlighting functions</li>\n</ul>\n\n<p>Code highlighting Example</p>\n\n<ul>\n  <li>javascript</li>\n</ul>\n\n<pre><code class=\"language-javascript\">  var test = {'name':'Seabook', 'age': 30}\n</code></pre>\n<ul>\n  <li>html</li>\n</ul>\n\n<pre><code class=\"language-html\">  &lt;h1&gt;Kungfu Software Rocks&lt;/h1&gt;\n  &lt;p&gt;Hello World&lt;/p&gt;\n</code></pre>\n<ul>\n  <li>python</li>\n</ul>\n\n<pre><code class=\"language-python\">  from sys import argv\n  script, first, second, third = argv\n  print \"The script is called:\", script\n</code></pre>\n\n<h2>V1.0.2 - 3 Jun 2015</h2>\n<ul>\n  <li>make the site responsive</li>\n  <li>fix responsive issues</li>\n  <li>polish the pictures</li>\n  <li>fix some bugs</li>\n</ul>\n\n<h2>V1.0.1 - 5 May 2015</h2>\n<ul>\n  <li>Finish the site strucutre</li>\n  <li>Finish the DESKTOP Site CSS</li>\n  <li>add blog features to the site</li>\n  <li>host on github by using github pages feature</li>\n</ul>\n\n<h2>V0.1.0 - 13 Feb 2015</h2>\n<ul>\n  <li>init the project to github</li>\n  <li>design the site</li>\n</ul>\n",
         "month": "04",
         "year": "2015",
         "ticks": 1427846400.0,
         "mixture_month_year": "04/2015",
         "mixture_date": "2015-04-01T00:00:00Z"
+      },
+      "/posts/hybris-best-ecommerce-platform": {
+        "title": "Pow! Guess what the best Commerce Platform on the planet is?",
+        "published": true,
+        "date": "2015-06-18 00:00:00 UTC",
+        "slug": "/posts/hybris-best-ecommerce-platform",
+        "comments": true,
+        "author": "seabook",
+        "tags": [
+          "hybris",
+          "ecommerce"
+        ],
+        "body": "\n<blockquote>\n  <p>Gartner recently released their Critical Capabilities for Digital Commerce report, where 11 vendors were evaluated on products based on five critical capabilities and three use cases. And it is good, really good.<br />\nHybris Commerce has been named the leader for each use case, making it the best Commerce platform in the market today!</p>\n</blockquote>\n\n<p><br /></p>\n\n<p><img src=\"https://lh3.googleusercontent.com/RCEeZRpaAJW6Q85KgCy8gUxMrxE5y24WFDqCWI1BYDU=w550-h756-no\" alt=\"Promotion Banner\" /></p>\n\n<p><br /></p>\n\n<h1>Does that mean hybris consultants may be able to charge a higer rates? :-)</h1>\n\n",
+        "month": "06",
+        "year": "2015",
+        "ticks": 1434585600.0,
+        "mixture_month_year": "06/2015",
+        "mixture_date": "2015-06-18T00:00:00Z"
       }
     },
     "index": {
@@ -43,6 +61,9 @@
         ],
         "release notes": [
           "/posts/release-notes"
+        ],
+        "pow! guess what the best commerce platform on the planet is?": [
+          "/posts/hybris-best-ecommerce-platform"
         ]
       },
       "transliterated-title": {
@@ -51,6 +72,9 @@
         ],
         "release-notes": [
           "/posts/release-notes"
+        ],
+        "pow-guess-what-the-best-commerce-platform-on-the-planet-is": [
+          "/posts/hybris-best-ecommerce-platform"
         ]
       },
       "slug": {
@@ -59,6 +83,9 @@
         ],
         "/posts/release-notes": [
           "/posts/release-notes"
+        ],
+        "/posts/hybris-best-ecommerce-platform": [
+          "/posts/hybris-best-ecommerce-platform"
         ]
       },
       "transliterated-slug": {
@@ -67,34 +94,43 @@
         ],
         "/posts/release-notes": [
           "/posts/release-notes"
+        ],
+        "/posts/hybris-best-ecommerce-platform": [
+          "/posts/hybris-best-ecommerce-platform"
         ]
       },
       "comments": {
         "true": [
-          "/posts/ecommerce-solutions-on-the-market"
+          "/posts/ecommerce-solutions-on-the-market",
+          "/posts/hybris-best-ecommerce-platform"
         ]
       },
       "transliterated-comments": {
         "true": [
-          "/posts/ecommerce-solutions-on-the-market"
+          "/posts/ecommerce-solutions-on-the-market",
+          "/posts/hybris-best-ecommerce-platform"
         ]
       },
       "author": {
         "seabook": [
-          "/posts/ecommerce-solutions-on-the-market"
+          "/posts/ecommerce-solutions-on-the-market",
+          "/posts/hybris-best-ecommerce-platform"
         ]
       },
       "transliterated-author": {
         "seabook": [
-          "/posts/ecommerce-solutions-on-the-market"
+          "/posts/ecommerce-solutions-on-the-market",
+          "/posts/hybris-best-ecommerce-platform"
         ]
       },
       "tags": {
         "hybris": [
-          "/posts/ecommerce-solutions-on-the-market"
+          "/posts/ecommerce-solutions-on-the-market",
+          "/posts/hybris-best-ecommerce-platform"
         ],
         "ecommerce": [
-          "/posts/ecommerce-solutions-on-the-market"
+          "/posts/ecommerce-solutions-on-the-market",
+          "/posts/hybris-best-ecommerce-platform"
         ],
         "example": [
           "/posts/release-notes"
@@ -105,10 +141,12 @@
       },
       "transliterated-tags": {
         "hybris": [
-          "/posts/ecommerce-solutions-on-the-market"
+          "/posts/ecommerce-solutions-on-the-market",
+          "/posts/hybris-best-ecommerce-platform"
         ],
         "ecommerce": [
-          "/posts/ecommerce-solutions-on-the-market"
+          "/posts/ecommerce-solutions-on-the-market",
+          "/posts/hybris-best-ecommerce-platform"
         ],
         "example": [
           "/posts/release-notes"
@@ -119,7 +157,8 @@
       },
       "month": {
         "06": [
-          "/posts/ecommerce-solutions-on-the-market"
+          "/posts/ecommerce-solutions-on-the-market",
+          "/posts/hybris-best-ecommerce-platform"
         ],
         "04": [
           "/posts/release-notes"
@@ -128,7 +167,8 @@
       "year": {
         "2015": [
           "/posts/ecommerce-solutions-on-the-market",
-          "/posts/release-notes"
+          "/posts/release-notes",
+          "/posts/hybris-best-ecommerce-platform"
         ]
       },
       "ticks": {
@@ -137,11 +177,15 @@
         ],
         "1427846400.0": [
           "/posts/release-notes"
+        ],
+        "1434585600.0": [
+          "/posts/hybris-best-ecommerce-platform"
         ]
       },
       "mixture_month_year": {
         "06/2015": [
-          "/posts/ecommerce-solutions-on-the-market"
+          "/posts/ecommerce-solutions-on-the-market",
+          "/posts/hybris-best-ecommerce-platform"
         ],
         "04/2015": [
           "/posts/release-notes"
@@ -153,6 +197,9 @@
         ],
         "2015-04-01t00:00:00z": [
           "/posts/release-notes"
+        ],
+        "2015-06-18t00:00:00z": [
+          "/posts/hybris-best-ecommerce-platform"
         ]
       }
     }

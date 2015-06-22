@@ -12,7 +12,7 @@ tags: [hybris,ecommerce]
 ![nice starting image][ecommerce_cart]
 
 With the new Gartner Report for Digital Commerce, Gartner listed SAP hybris as the best Ecommerce Platform among other 10 ecommerce solutions.
-And pointed Hybris receives highest product scores in all 3 use cases. Click [here]() to ask for a free report.
+And pointed Hybris receives highest product scores in all 3 use cases. Click [here](mailto:admin@kungfusoftware.net) to ask for a free report.
 I feel good because I have been working with hybris for 3+ years. I thought I might share my own thoughts among all the ecommerce solutions I used or I will potentially use in the future.
 
 ### **[SAP Hybris](https://www.hybris.com)**
@@ -28,7 +28,7 @@ Before joined SAP, Hybris is fully focused on Ecommerce Solution. Nowadays, they
   - It's a complex platform. Especially after SAP accqusition, there are lots of new stuffs coming into the platform such as Backoffice, Datahub, yForms etc.
 
 **Customers In Australia:**
-  - [Target Australia](https://target.com.au), [Harris Scarfe](http://www.harrisscarfe.com.au), [Spotlight](https://www.spotlight.com.au/), [Landmark](http://www.landmark.com.au/),[Book World](http://www.bookworld.com.au/), [Bigw](https://www.bigw.com.au)
+  - [Target Australia](https://target.com.au), [Harris Scarfe](http://www.harrisscarfe.com.au), [Spotlight](https://www.spotlight.com.au/), [Landmark](http://www.landmark.com.au/),[Book World](http://www.bookworld.com.au/), [BigW](https://www.bigw.com.au)
 
 
 ### **[Oracle ATG](http://www.oracle.com/us/products/applications/commerce/commerce-platform/overview/index.html)**
