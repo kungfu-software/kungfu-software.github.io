@@ -806,3 +806,13 @@ pre {
 .author-info p{
   font-size: 1em;
 }
+
+ul.share-buttons{
+  list-style: none;
+  padding: 0;
+}
+
+ul.share-buttons li{
+  display: inline;
+  padding: 5px;
+}
