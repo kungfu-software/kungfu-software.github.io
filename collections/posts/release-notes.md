@@ -6,6 +6,11 @@ slug: /release-notes
 tags: [example,release-notes]
 ---
 
+## V1.1.2 - 22 Jun 2015
+  - add social sharing features
+  - bug fixes
+  - add new blog post
+
 ## V1.1.1 - 15 Jun 2015
   - add basic google analytics
   - add author info sections

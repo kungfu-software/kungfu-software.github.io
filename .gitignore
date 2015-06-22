@@ -1,5 +1,4 @@
 converted-html/**
-**/.cache/**
+collections/.cache/**
 .DS_Store
 **/.DS_Store
-.cache/**
