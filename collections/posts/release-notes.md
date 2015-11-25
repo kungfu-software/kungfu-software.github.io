@@ -6,6 +6,10 @@ slug: /release-notes
 tags: [example,release-notes]
 ---
 
+## V1.1.3 - 13 Nov 2015
+  - fixing some typos
+  - add open source section
+
 ## V1.1.2 - 22 Jun 2015
   - add social sharing features
   - bug fixes
