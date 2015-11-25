@@ -13,6 +13,20 @@
 		<lastBuildDate>Thu, 06 Jun 2013 12:17:05 GMT</lastBuildDate>
 		
 			<item>
+	<title>AEM in a nut shell</title>
+	<link>http://www.kungfusoftware.net/posts/aem-in-a-nut-shell</link>
+	<guid>/posts/aem-in-a-nut-shell</guid>
+	
+	<pubDate>Tue, 24 Nov 2015 00:00:00 GMT</pubDate>
+	<description>AEM Adobe Strategy Cloud technology: Marketing Cloud Services AEM Adobe Target Adobe Analytics Adobe Data Workbench Adobe Campaign Adobe Social Adobe Media Optimizer Creative Cloud Services Photoshop Dreamweaver flash xxx AEM Main Components Adobe Web Content Management Adobe Content Repository Extreme (CRX) Adobe JCR Connectors DAM Adobe Advanced Collaboration, workflow...</description>
+</item><item>
+	<title>So much sutff now in hybris 5.7</title>
+	<link>http://www.kungfusoftware.net/posts/so-much-stuff-in-hybris5702</link>
+	<guid>/posts/so-much-stuff-in-hybris5702</guid>
+	
+	<pubDate>Tue, 10 Nov 2015 00:00:00 GMT</pubDate>
+	<description>Let’s have a look what have now in Hybris Commerce Suite 5.7 The following picture is from out of box, how many gradle recipes does hybris have. That’s not the whole list. As a hybris expert, we need to get our heads down and keep updating out skills I guess...</description>
+</item><item>
 	<title>YaaS! Hybris as a Service? What&#39;s that?</title>
 	<link>http://www.kungfusoftware.net/posts/yass-brief-look</link>
 	<guid>/posts/yass-brief-look</guid>
@@ -39,7 +53,7 @@
 	<guid>/posts/release-notes</guid>
 	
 	<pubDate>Wed, 01 Apr 2015 00:00:00 GMT</pubDate>
-	<description>V1.1.2 - 22 Jun 2015 add social sharing features bug fixes add new blog post V1.1.1 - 15 Jun 2015 add basic google analytics add author info sections bug fixes V1.1.0 - 10 Jun 2015 add domain kungfusoftware.net refactor the blog feature add disqus comments feature add hosted email solution...</description>
+	<description>V1.1.3 - 13 Nov 2015 fixing some typos add open source section V1.1.2 - 22 Jun 2015 add social sharing features bug fixes add new blog post V1.1.1 - 15 Jun 2015 add basic google analytics add author info sections bug fixes V1.1.0 - 10 Jun 2015 add domain kungfusoftware.net...</description>
 </item>
 		
 	</channel>
