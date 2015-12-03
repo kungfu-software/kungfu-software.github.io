@@ -8,9 +8,7 @@ author: seabook
 tags: [aem,architecht,features]
 ---
 
-
 AEM
-
 
 Adobe Strategy Cloud technology:
 

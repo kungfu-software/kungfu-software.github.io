@@ -5,22 +5,25 @@ date: 2015-04-01 00:00
 slug: /release-notes
 tags: [example,release-notes]
 ---
+### V1.2 - 03 Dec 2015
+ - add robots.txt
+ - add static sitemap.xml
 
-## V1.1.3 - 13 Nov 2015
+### V1.1.3 - 13 Nov 2015
   - fixing some typos
   - add open source section
 
-## V1.1.2 - 22 Jun 2015
+### V1.1.2 - 22 Jun 2015
   - add social sharing features
   - bug fixes
   - add new blog post
 
-## V1.1.1 - 15 Jun 2015
+### V1.1.1 - 15 Jun 2015
   - add basic google analytics
   - add author info sections
   - bug fixes
 
-## V1.1.0 - 10 Jun 2015
+### V1.1.0 - 10 Jun 2015
   - add domain [kungfusoftware.net](http://kungfusoftware.net)
   - refactor the blog feature
   - add disqus comments feature
@@ -50,19 +53,19 @@ Code highlighting Example
   print "The script is called:", script
 ```
 
-## V1.0.2 - 3 Jun 2015
+### V1.0.2 - 3 Jun 2015
   - make the site responsive
   - fix responsive issues
   - polish the pictures
   - fix some bugs
 
 
-## V1.0.1 - 5 May 2015
+### V1.0.1 - 5 May 2015
   - Finish the site strucutre
   - Finish the DESKTOP Site CSS
   - add blog features to the site
   - host on github by using github pages feature
 
-## V0.1.0 - 13 Feb 2015
+### V0.1.0 - 13 Feb 2015
   - init the project to github
   - design the site

@@ -29,6 +29,16 @@
   "routes": [
     {
       "redirect": null,
+      "route": "/sitemap.xml",
+      "template": "sitemap"
+    },
+    {
+      "redirect": null,
+      "route": "/robots.txt",
+      "template": "robots"
+    },
+    {
+      "redirect": null,
       "route": "/blog/tags",
       "template": "tags"
     },
